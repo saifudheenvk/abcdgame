@@ -1,0 +1,30 @@
+const words = [
+	'foodie',
+	'drinking',
+	'brownie',
+	'cupcake',
+	'meat',
+	'salmon',
+	'dinner',
+	'dessert',
+	'vegetables',
+	'candy',
+	'sweet',
+	'bread',
+	'honey',
+	'brocoli',
+	'salty',
+	'lemon',
+	'carrot',
+	'jellybean',
+	'cornflakes',
+	'cheese',
+	'milk',
+	'sausage',
+	'eggs',
+	'pasta',
+	'meatballs',
+	'tomato'
+];
+
+export default words;
